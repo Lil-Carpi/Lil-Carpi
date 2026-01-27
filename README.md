@@ -6,7 +6,7 @@ _Manejo servidores. Poca GUI._
 - 🔭 I’m currently working on [LilCMS](https://github.com/Lil-Carpi/LilCMS)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> Via discord as: lil_carpi
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
