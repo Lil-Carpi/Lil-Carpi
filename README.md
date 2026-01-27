@@ -1,38 +1,13 @@
 # Carpi (aka Lil_Carpi)
 _Manejo servidores. Poca GUI._
-
-Soy técnico informático en formación (ASIR), enfocado en sistemas **Linux**, **scripting**, **infraestructura**, **ciberseguridad** y **automatización**.
-Me interesan sistemas **que funcionan**, **que escalan** y **que resisten**.
-
 ---
+<h3 align="center">A junior SysAdmin & developer in training. Graduated on SMR and currently going through ASIR. I build my own tools and document everything.</h3>
 
-## Mi forma de pensar:
-- Enfoque de ingeniería: Causa -> efecto -> corrección.
-- Aprendizaje autodidacta, intensivo y por desmontaje.
-- Prefiero entender el _por qué_ antes de memorizar el _cómo_.
-- Automatizar antes que repetir.
-- Documentar lo justo, pero hacerlo bien.
+- 🔭 I’m currently working on [LilCMS](https://github.com/Lil-Carpi/LilCMS)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Tecnologías y áreas
-- **Sistemas**: Linux (Fedora), administración y hardening.
-- **Scripting**: Bash y Python.
-- **Infraestructura**: Servidores, sistemas autoalojados.
-- **Redes**: Fundamentos sólidos, enfoque práctico.
-
----
-
-## Que encontrarás en mis repos
-- Scripts y programas diseñados para usarse.
-- Notas técnicas claras, no decorativas.
-- Experimentos (algunos feos, otros lentos. Todos intencionados).
-- Proyectos que priorizan **robustez** sobre estética.
-
----
-
-## Medio y largo plazo
-- Certificación de inglés (IELTS).
-- Migración profesional a Nueva Zelanda.
-- Trabajo en entornos técnicos exigentes (infraestructura crítica, I+D).
-- **Eventualmente**: Sector aeroespacial.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
