@@ -1,7 +1,7 @@
 # Carpi (aka Lil_Carpi)
 _Manejo servidores. Poca GUI._
 ---
-<h3 align="center">A junior SysAdmin & developer in training. Graduated on SMR and currently going through ASIR. I build my own tools and document everything.</h3>
+<h3 align="center">A junior SysAdmin & developer in training. Graduated on SMR and currently going through ASIR. I build my own tools and [document everything](https://github.com/Lil-Carpi/Notas-Asir).</h3>
 
 - 🔭 I’m currently working on [LilCMS](https://github.com/Lil-Carpi/LilCMS)
 
