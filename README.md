@@ -30,5 +30,3 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/> </a>
   <a href="https://obsidian.md/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="obsidian" width="45" height="45"/> </a>
 </p>
-
-![Lil-Carpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lil-Carpi&show_icons=true&theme=dark&hide_border=true)
