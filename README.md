@@ -31,12 +31,4 @@
   <a href="https://obsidian.md/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="obsidian" width="45" height="45"/> </a>
 </p>
 
-### 📫 Connect with me
-
-<p align="left">
-  <a href="mailto:tu-email-profesional@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  </p>
-
 ![Lil-Carpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lil-Carpi&show_icons=true&theme=dark&hide_border=true)
