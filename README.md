@@ -13,7 +13,6 @@
 
 - 🎓 **Background:** Certified IT Systems Technician (SMX), currently specializing in System Administration (ASIR).
 - 🔭 **Current Project:** Building [LilCMS](https://github.com/Lil-Carpi/LilCMS), a custom DJANGO/JS Content Management System built from scratch to master data lifecycles.
-- 🛡️ **Security Focus:** Training for CPTS (HackTheBox) and documenting advanced Linux hardening & Bash scripting.
 - 🧠 **Philosophy:** I maintain a comprehensive Knowledge Base (Obsidian) because writing is the best way to debug your thoughts.
 
 ### 🛠️ Languages & Tools
